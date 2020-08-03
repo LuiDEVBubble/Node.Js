@@ -4,6 +4,5 @@ console.log(profit);
 
 let resultConcat = "200" + 150;
 
-//sss
 
 console.log(resultConcat);
